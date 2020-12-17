@@ -59,5 +59,3 @@
 <a href="https://www.instagram.com/mikusher/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mikusher-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:luis.amilcar.tavares@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-luis.amilcar.tavares@outlook.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-⭐️ From [MIKUSHER](https://github.com/mikusher)
