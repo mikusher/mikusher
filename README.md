@@ -14,3 +14,9 @@
   <a href="mailto:luis.amilcar.tavares@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-luis.amilcar.tavares@outlook.com-blue?style=flat-square&logo=gmail"</a>
 </p>
 </p>
+
+<button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+Click me to display Date and Time.</button>
+
+<p id="demo"></p>
