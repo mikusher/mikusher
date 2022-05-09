@@ -1,5 +1,15 @@
 
-<h2> Hey there! I'm Luis Tavares.</h2>
+<h2> Hey there! I'm Luis Amilcar Tavares.</h2>
 <p>
-<a href="https://www.mikusher.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.mikusher.com-blue?style=flat-square&logo=google-chrome"></a>
+</p>
+<div align="center">
+  <a href="https://www.mikusher.com/" target="_blank"><img alt="Logo" src="https://avatars3.githubusercontent.com/u/3151021?s=400&u=07d506a8ccfa191fa8ab0e27f7fc1cacf779bef8&v=4" width="100" /></a>
+</div>
+<h3 align="center">
+  <a href="https://www.mikusher.com/" target="_blank">About Me!</a>
+</h3>
+<p align="center">
+  <a href="https://app.netlify.com/sites/mikusher/deploys" target="_blank">
+    <img src="https://api.netlify.com/api/v1/badges/02c464d3-8344-41f8-a5d5-38bf28e9e980/deploy-status" alt="Netlify Status" />
+  </a>
 </p>
