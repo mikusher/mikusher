@@ -1,7 +1,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=mikusher)](https://www.mikusher.com/)
 
+<!--
 <h2>I'm Luis Amilcar Tavares.</h2>
-<h5 align="right">
+-->
+<h5 align="left">
   <a href="https://www.mikusher.com/" target="_blank">Mikusher WebPage</a>
 </h5>
 <p align="center">
