@@ -1,4 +1,6 @@
+<!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=mikusher)](https://www.mikusher.com/)
+-->
 
 <!--
 <h2>I'm Luis Amilcar Tavares.</h2>
