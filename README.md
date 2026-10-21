@@ -18,7 +18,7 @@ I focus on validating security risks against real code paths, improving engineer
 | [Satellite](https://github.com/mikusher/satellite) | Java libraries for typed dynamic data and policy-controlled handling of sensitive data at application egress boundaries. | Active development |
 | [Vulnerability Benchmark](https://github.com/mikusher/vulnerability-benchmark) | Collection for comparing SAST results across languages and studying false positives. | Historical / research |
 | [Scoop](https://github.com/mikusher/scoop) | Python data-collection and ETL experiment with database and analytics components. | Historical / experimental |
-| [JavaJavascript](https://github.com/mikusher/JavaJavascript) | Java and JavaScript examples and programming exercises. | Educational / historical |
+| [Link Sanitizer](https://github.com/mikusher/link-sanitizer) | Chrome extension with user-defined rules to strip tracking parameters and optionally suppress the Referer header. | Recently updated |
 
 ## How I approach engineering
 
